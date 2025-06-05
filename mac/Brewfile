@@ -1,0 +1,85 @@
+tap "homebrew/services"
+# Cryptography and SSL/TLS Toolkit
+brew "openssl@3"
+# Infamous electronic fortune-cookie generator
+brew "fortune"
+# GitHub command-line tool
+brew "gh"
+# General-purpose data compression with high compression ratio
+brew "xz"
+# Open-source build automation tool based on the Groovy and Kotlin DSL
+brew "gradle"
+# Java-based project management
+brew "maven"
+# Run a Kubernetes cluster locally
+brew "minikube"
+# Platform built on V8 to build network applications
+brew "node@22"
+# Development kit for the Java programming language
+brew "openjdk@17"
+# Library for command-line editing
+brew "readline"
+# Execute binaries from Python packages in isolated environments
+brew "pipx"
+# Fast, disk space efficient package manager
+brew "pnpm"
+# Python version management
+brew "pyenv"
+# Tool Command Language
+brew "tcl-tk@8"
+# Display directories as trees (with optional color/HTML output)
+brew "tree"
+# General-purpose lossless data-compression library
+brew "zlib"
+# App to build and share containerised applications and microservices
+cask "docker"
+# HTTP and GraphQL Client
+cask "insomnia"
+# Java IDE by JetBrains
+cask "intellij-idea"
+# Reverse proxy, secure introspectable tunnels to localhost
+cask "ngrok"
+# JavaScript IDE
+cask "webstorm"
+vscode "akamud.vscode-theme-onedark"
+vscode "batisteo.vscode-django"
+vscode "chuckjonas.apex-pmd"
+vscode "dbaeumer.vscode-eslint"
+vscode "docker.docker"
+vscode "donjayamanne.githistory"
+vscode "donjayamanne.python-environment-manager"
+vscode "donjayamanne.python-extension-pack"
+vscode "fwcd.kotlin"
+vscode "github.copilot"
+vscode "github.copilot-chat"
+vscode "github.vscode-pull-request-github"
+vscode "gruntfuggly.todo-tree"
+vscode "kevinrose.vsc-python-indent"
+vscode "mechatroner.rainbow-csv"
+vscode "mhutchie.git-graph"
+vscode "ms-azuretools.vscode-containers"
+vscode "ms-azuretools.vscode-docker"
+vscode "ms-python.debugpy"
+vscode "ms-python.python"
+vscode "ms-python.vscode-pylance"
+vscode "ms-vscode.live-server"
+vscode "njpwerner.autodocstring"
+vscode "openai.chatgpt"
+vscode "pkief.material-icon-theme"
+vscode "redhat.java"
+vscode "redhat.vscode-xml"
+vscode "stateful.runme"
+vscode "teabyii.ayu"
+vscode "tomoki1207.pdf"
+vscode "vmware.vscode-boot-dev-pack"
+vscode "vmware.vscode-spring-boot"
+vscode "vscjava.vscode-gradle"
+vscode "vscjava.vscode-java-debug"
+vscode "vscjava.vscode-java-dependency"
+vscode "vscjava.vscode-java-pack"
+vscode "vscjava.vscode-java-test"
+vscode "vscjava.vscode-maven"
+vscode "vscjava.vscode-spring-boot-dashboard"
+vscode "vscjava.vscode-spring-initializr"
+vscode "vsls-contrib.codetour"
+vscode "wholroyd.jinja"
